@@ -1,0 +1,12 @@
+{{> header}} 
+{{> navbar}}  
+    <h1>Mis pintores favoritos</h1>
+    <h3>En esta pagina web muestro algunos de mis pintores favoritos. Entre ellos:</h3>
+    <ul>
+        <li>Salvador Dali</li>
+        <li>Vincent Van Gogh</li>
+        <li>Claude Monet</li>
+        <li>Pablo Picasso</li>
+    </ul>
+    
+{{> footer}}
